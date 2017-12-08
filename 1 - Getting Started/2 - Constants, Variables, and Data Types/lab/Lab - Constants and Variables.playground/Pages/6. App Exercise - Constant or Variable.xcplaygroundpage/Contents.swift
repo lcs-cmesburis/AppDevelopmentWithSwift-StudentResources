@@ -11,8 +11,16 @@
  - Goal number of steps: The user's goal for number of steps to take each day
  - Average heart rate: The user's average heart rate over the last 24 hours
  */
-
-
+let name = "Cassie"
+print("I declared this a constant because my name will never change")
+var age = 15
+print("I declared this a variable because my age will change")
+var numberOfStepsTakenToday = 3000
+print("I declared this a variable because my number of steps will change throughout the day")
+let goalNumberOfSteps = 5000
+print("I declared this a constant because goals don't change")
+var averageHeartRate = 80
+print("I declared this a variable because my average hear rate can change")
 
 
 
